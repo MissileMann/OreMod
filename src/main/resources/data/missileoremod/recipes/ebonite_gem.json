@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "missileoremod:ebonite_block"
+    }
+  ],
+  "result": {
+    "item": "missileoremod:ebonite_gem",
+    "count": 9
+  }
+}

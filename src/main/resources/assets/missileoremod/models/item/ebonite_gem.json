@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "missileoremod:items/ender_mechanism"   
+        "layer0": "missileoremod:items/ebonite_gem"   
     }
 }
