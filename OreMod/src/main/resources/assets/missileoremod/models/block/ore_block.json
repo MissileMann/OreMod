@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "missileoremod:blocks/ore_block"
-    }
-}
