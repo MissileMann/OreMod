@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "missileoremod:block/ore_block" }
+    }
+}
