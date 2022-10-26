@@ -1,6 +1,7 @@
 package com.missile.oremod.core.init;
 
 import com.missile.oremod.OreMod;
+import com.missile.oremod.core.init.common.blocks.BlockCrystal;
 
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
@@ -18,7 +19,7 @@ public class BlockInit {
 	
 	public static final RegistryObject<Block> EBONITE_ORE = BLOCKS
 			.register("ebonite_ore", 
-			() -> new Block(AbstractBlock.Properties.of(Material.METAL, MaterialColor.COLOR_PURPLE)
+			() -> new BlockCrystal(AbstractBlock.Properties.of(Material.METAL, MaterialColor.COLOR_PURPLE)
 					.strength(15f, 30f)
 					.harvestLevel(3)
 					.harvestTool(ToolType.PICKAXE)

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "missileoremod:block/ebonite_ore" }
+        "": { "model": "missileoremod:block/ebonite_crystal" }
     }
 }

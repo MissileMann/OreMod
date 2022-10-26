@@ -1,7 +1,7 @@
 {
 	"item.missileoremod.ebonite_gem": "Ebonite Gem",
-	"block.missileoremod.ebonite_ore": "Ebonite Ore",
-	"tile.missileoremod.ebonite_ore": "Ebonite Ore",
-	"block.missileoremod.ebonite_block": "Block of Ebonite",
-	"tile.missileoremod.ebonite_block": "Block of Ebonite"
+	"block.missileoremod.ebonite_ore": "Ebonite Crystal",
+	"tile.missileoremod.ebonite_ore": "Ebonite Crystal",
+	"block.missileoremod.ebonite_block": "Block of Ebonite Gem",
+	"tile.missileoremod.ebonite_block": "Block of Ebonite Gem"
 }
