@@ -22,6 +22,4 @@ public class ItemInit {
 
 	public static final RegistryObject<BlockItem> EBONITE_BLOCK = ITEMS.register("ebonite_block",
 			() -> new BlockItem(BlockInit.EBONITE_BLOCK.get(), new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS)));
-
-	
 }
